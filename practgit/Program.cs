@@ -11,7 +11,6 @@ namespace practgit
         static void Main(string[] args)
         {
             Console.WriteLine("I'M BACK BABY!!");
-            Console.WriteLine("My first push!");
         }
     }
 }
